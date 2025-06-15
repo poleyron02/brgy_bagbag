@@ -1,16 +1,33 @@
 # brgy_bagbag
 
-A new Flutter project.
+Brgy Bagbag is a Flutter-based mobile application designed to streamline administrative tasks and improve communication within Barangay Bagbag. The app provides features for managing resident information, announcements, and other essential services.
+
+## Features
+
+- **Resident Management**: Store and manage resident details securely.
+- **Announcements**: Publish important updates and announcements.
+- **Admin Dashboard**: Tools for barangay officials to oversee operations.
+- **Firebase Integration**: Real-time data synchronization and storage.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with the development or deployment of this project, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-repo/brgy_bagbag.git
+   ```
+2. Install Flutter and set up your development environment. Refer to the [Flutter documentation](https://docs.flutter.dev/get-started/install) for guidance.
+3. Run the app:
+   ```bash
+   flutter run
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Resources
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter Documentation](https://docs.flutter.dev/)
+- [Firebase Documentation](https://firebase.google.com/docs)
+
+## Contributing
+
+Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
